@@ -12,5 +12,13 @@ pseudo code
 		{
 			//feature1.1 code
 		}
+	Feature2()
+		{
+			//feature2 code
 
+		}
+	Security_patch()
+		{
+			//Security code
+		}
 }
