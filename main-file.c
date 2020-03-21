@@ -4,4 +4,8 @@ pseudo code
 		{
 			//Sample Code
 		}
+	Feature1()
+		{
+			//feature1 code
+		}
 }
