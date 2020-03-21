@@ -14,4 +14,8 @@ pseudo code
 			//feature2 code
 
 		}
+	Security_patch()
+		{
+			//Security code
+		}
 }
